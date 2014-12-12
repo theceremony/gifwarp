@@ -1,0 +1,6 @@
+ofxNetwork
+ofxOpenCv
+ofxSvg
+ofxVectorGraphics
+ofxGif
+ofxQuadWarp

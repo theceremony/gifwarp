@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>339E7443-B834-448C-A986-40E367B3B651</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>14B8AC792BB3E433FAB0B60E4B728B5F7967140B</key>
+		<string>https://github.com/julapy/ofxQuadWarp.git</string>
+		<key>9C7BF52463125CA866C7A3A3931090F6CE01A291</key>
+		<string>https://github.com/Geistyp/ofxGif.git</string>
+		<key>B369B44E452F469C835B00A91875BF1736AFFF69</key>
+		<string>https://github.com/jesusgollonet/ofxGifDecoder.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>14B8AC792BB3E433FAB0B60E4B728B5F7967140B</key>
+		<string>ofxQuadWarp/</string>
+		<key>9C7BF52463125CA866C7A3A3931090F6CE01A291</key>
+		<string>ofxGif/</string>
+		<key>B369B44E452F469C835B00A91875BF1736AFFF69</key>
+		<string>ofxGifDecoder/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/julapy/ofxQuadWarp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>14B8AC792BB3E433FAB0B60E4B728B5F7967140B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9C7BF52463125CA866C7A3A3931090F6CE01A291</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxGif</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B369B44E452F469C835B00A91875BF1736AFFF69</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxGifDecoder</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>14B8AC792BB3E433FAB0B60E4B728B5F7967140B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxQuadWarp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
